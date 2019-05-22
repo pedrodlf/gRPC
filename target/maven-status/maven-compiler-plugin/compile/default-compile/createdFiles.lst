@@ -1,0 +1,16 @@
+com\pedro\grpc\DummyMessage$Builder.class
+com\pedro\grpc\DummyServiceGrpc$DummyServiceBaseDescriptorSupplier.class
+com\pedro\grpc\DummyMessage$1.class
+com\pedro\grpc\DummyMessage.class
+com\pedro\grpc\DummyServiceGrpc$DummyServiceFutureStub.class
+com\pedro\grpc\Dummy.class
+com\pedro\grpc\DummyServiceGrpc$DummyServiceImplBase.class
+com\pedro\grpc\DummyServiceGrpc$DummyServiceFileDescriptorSupplier.class
+com\pedro\grpc\Dummy$1.class
+com\pedro\grpc\DummyServiceGrpc$1.class
+com\pedro\grpc\DummyMessageOrBuilder.class
+com\pedro\grpc\DummyServiceGrpc.class
+com\pedro\grpc\DummyServiceGrpc$DummyServiceStub.class
+com\pedro\grpc\DummyServiceGrpc$MethodHandlers.class
+com\pedro\grpc\DummyServiceGrpc$DummyServiceBlockingStub.class
+com\pedro\grpc\DummyServiceGrpc$DummyServiceMethodDescriptorSupplier.class
